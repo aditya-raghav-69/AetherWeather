@@ -58,6 +58,6 @@ weather-app/
     └── ParticleCanvas.jsx # Animated weather particles
 ```
 
----
+--- kindlyy use your own open weather api, no api shared in this repository
 
 Made with ❤️ from **Aditya Pratap Singh**
